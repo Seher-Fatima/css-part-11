@@ -1,0 +1,58 @@
+h1{
+	font-size:60px;
+	font-family:"helvetica neue";
+	text-align:center;
+	padding:10px;
+	cursor:crosshair;		
+}
+
+.main{
+	border:5px  solid white;
+	background-color:skyblue;
+	
+}
+.main{
+	font-size:30px;
+	padding:50px 60px;		
+	font-family:"arial";
+}
+.main input {
+	font-size:30px;
+	display:block;
+	width:100%;
+	padding:12px 20px;
+	cursor:pointer;
+	margin:9px 0px;	
+	border:10px solid green; 
+}
+.main p{
+	background-color:black;
+	font-size:40px;
+	text-align:center;
+	padding:9px 9px;
+	color:deeppink;
+	font-family:"cambria";
+	cursor:wait;
+}
+.nav input{
+	height:40px;
+	width:50px;
+	margin-left:50px;	
+}
+.nav b{
+	font-size:30px;
+	margin-left:20px;
+	padding:30px 20px;
+}
+.nav i{
+	background-color:red;
+	font-size:40px;
+	cursor:not-allowed;
+}
+.nav{
+	border:10px solid yellow;
+	padding:10px 30px;
+	margin-top:50px;
+	background-color:green;
+
+}
